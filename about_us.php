@@ -75,18 +75,15 @@
           
           <div class="title-holder align-center">
             
-            <div class="pre-title color2">About Churhius</div>
-            <h2>Who We Are</h2>
+            <div class="pre-title color2">About The Presbyterian Church Of Nigeria</div>
+            
+            <h2>Our History</h2>
+            <p>The Presbyterian Church of Nigeria is aware of its origins in the Reformation, especially for the enlightening ministries of John Calvin in Switzerland and John Knox in Scotland.<br>The Presbyterian Church of Nigeria is also indebted to the Presbyterian Church in Jamaica and the Jamaican Missionary Board for West Indies and Africa for taking the initiative to send five Jamaicans and the Rev. Hope Masterdon Waddell to Calabar in 1846 at the invitation of King Evamba V and King Eyo II and other chiefs of Calabar. The Presbyterian Church of Nigeria is also grateful to the Church of Scotland Mission for its generous support of further mission personnel bringing in the light of the gospel.
 
-            <p>Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Donec sit amet <br> eros. Lorem ipsum dolor. Mauris fermentum dictum magna. Sed laoreet aliquam <br> leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean <br> auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis.</p>
-
-            <a href="#" class="btn btn-small btn-style-4">Read Our history</a>
-
-          </div>
-
-        </div>
-
-      </div>
+The Presbyterian Church of Nigeria remembers the creation of the Presbytery of Biafra for the oversight of the congregations formed and Creek Town and Duke Town on September 1, 1858, and to be known as “The Presbyterian Church in Biafra.” The Church gives thanks to God for the memory of its first indigenous Nigerian minister, the Rev. Esien Esien Ukpabio, ordained to the holy ministry by the Presbytery of Biafra on April 9, 1872. The Church still rejoices when on May 4, 1921 the Synod of Biafra was formed, comprised of two Presbyteries. The Synod became “The Presbyterian Church of Eastern Nigeria” in June, 1952, and in recognition of its own national character and mission, in June 1960 changed its name to “The Presbyterian Church of Nigeria”.</p>
+            <a href="history.php" class="btn btn-small btn-style-4">Read Our history</a>
+          
+           
 
       <div class="page-section-bg">
           
@@ -100,11 +97,9 @@
                 <img src="images/430x308_img1.jpg" alt="">
               </div>
 
-              <h3 class="box-title">I’m New Here</h3>
-              <p>Duis ac turpis. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed laoreet aliquam leo. 
-              Ut tellus dolor, dapibus eget, elementum.</p>
-              <a href="#" class="btn btn-small btn-style-4">Learn more</a>
-
+              <h3 class="box-title">Our Vision</h3>
+              <p>
+                  Every member a disciple of Christ, discipling everywhere. (Matthew 28:16-20)</p>
             </div>
 
             <div class="info-box">
@@ -114,9 +109,8 @@
               </div>
 
               <h3 class="box-title">Our Missions</h3>
-              <p>Duis ac turpis. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed laoreet aliquam leo. 
-              Ut tellus dolor, dapibus eget, elementum.</p>
-              <a href="#" class="btn btn-small btn-style-4">Read more</a>
+              <p>To raise and equip faithful disciples of Jesus Christ through Bible - based teaching, preaching, witnessing and service in order to build the body of Christ and show God's love to the world.</p>
+              
 
             </div>
 
@@ -231,50 +225,11 @@
         
         <div class="container wide">
           
-          <h2 class="align-center">What We Believe</h2>
+          <h2 class="align-center">Statement Of Faith</h2>
 
-          <div class="icons-box style-1 flex-row item-col-3">
-
-            <!-- - - - - - - - - - - - - - Icon Box Item - - - - - - - - - - - - - - - - -->        
-            <div class="icons-wrap">
-
-              <div class="icons-item">
-                <div class="item-box">
-                  <i>1.</i>
-                  <h4 class="icons-box-title">God is Good</h4>
-                  <p>Duis ac turpis. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. </p>
-                </div>
-              </div>
-
-            </div>
-
-            <!-- - - - - - - - - - - - - - Icon Box Item - - - - - - - - - - - - - - - - -->        
-            <div class="icons-wrap">
-
-              <div class="icons-item">
-                <div class="item-box">
-                  <i>2.</i>
-                  <h4 class="icons-box-title">Nothing is Impossible</h4>
-                  <p>Duis ac turpis. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. </p>
-                </div>
-              </div>
-
-            </div>
-
-            <!-- - - - - - - - - - - - - - Icon Box Item - - - - - - - - - - - - - - - - -->        
-            <div class="icons-wrap">
-
-              <div class="icons-item">
-                <div class="item-box">
-                  <i>3.</i>
-                  <h4 class="icons-box-title">We are Significant</h4>
-                  <p>Duis ac turpis. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. </p>
-                </div>
-              </div>
-
-            </div>
-
-          </div>
+          
+            <p>These are the statements of Bible doctrine as believed and taught by the PRESBYTERIAN Church of Nigeria. Each of these statements of faith has been directly deduced from the Bible. We believe they are agreeable with any unbiased interpretation of the Bible. They constitute for us the fundamental doctrines and tenets of the Christian faith.</p>
+            <a href="history.php#st-of-faith" class="btn btn-small btn-style-4">Read All</a>
 
         </div>
 
@@ -335,7 +290,7 @@
               <div class="pre-title color2">Meet The Lead Pastors</div>
               <h2 class="title2">Jane & Robert Smith</h2>
               <p>Aliquam erat volutpat. Duis ac turpis. Donec sit amet eros. Lorem ipsum dolor. Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. </p>
-              <a href="#" class="btn btn-small btn-style-4">Read More</a>
+              <a href="leadership.php" class="btn btn-small btn-style-4">Read More</a>
 
             </div>
 
